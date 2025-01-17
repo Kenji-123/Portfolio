@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    height: 80vh;
+    background-image: url('../resources/images/backgrounds/helsinki.jpg');
+    background-position: top;
+}
+
+#navbar_parent {
+    position: absolute;
+    background-color: rgba(40, 153, 110, 0.837);
+    width: 100%;
+    height: 100px;
+}
+#navbar {
+    position: relative;
+    text-align: center;
+    top: -20px;
+    color: white;
+}
